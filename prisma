@@ -1,0 +1,33 @@
+{
+  "name": "Prisma",
+  "downloads": [
+    {
+      "title": "GTA Vice City The Definitive Edition",
+      "description": "Instalação do jogo GTA Vice City The Definitive Edition.",
+      "bannerLink": "https://www.prisma.com/banners/gta-vice-city",
+      "uris": [
+        "magnet:?xt=urn:btih:"
+      ],
+      "fileSize": "10GB",
+      "uploadDate": "2023-11-28T21:08:00-08:00",
+      "CPU": "Intel Core i5-6600K or AMD Ryzen 5 1600",
+      "RAM": "8GB",
+      "DISK": "80GB",
+      "GPU": "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB"
+    },
+    {
+      "title": "GTA San Andreas The Definitive Edition",
+      "description": "Instalação do jogo GTA San Andreas The Definitive Edition.",
+      "bannerLink": "https://www.prisma.com/banners/gta-san-andreas",
+      "uris": [
+        "magnet:?xt=urn:"
+      ],
+      "fileSize": "20GB",
+      "uploadDate": "2023-11-28T21:08:00-08:00",
+      "CPU": "Intel Core i7-8700K or AMD Ryzen 7 3700X",
+      "RAM": "16GB",
+      "DISK": "100GB",
+      "GPU": "NVIDIA GeForce RTX 2070 SUPER or AMD Radeon RX 5700 XT"
+    }
+  ]
+}
